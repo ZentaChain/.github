@@ -1,6 +1,5 @@
 <body>
   
-<h1>Zentachain</h1>
 <img src="https://github.com/ZentaChain/.github/blob/main/assets/zentachain_github.png" width="1028"/>
   
 </body>
