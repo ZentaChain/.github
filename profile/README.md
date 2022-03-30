@@ -4,7 +4,7 @@
 
 ## About
 
-• [Website](https://.zentachain.io) • [Onlinestore](https://zentanode.com) • [Explorer](https://explorer.zentachain.io) • [Trade-Hub](https://trade.zentachain.io) • [Zentalk-Web](https://zentalk.chat) • [Blog](https://zentachain.blog) • [Doc-Hub](https://docs.zentachain.io) • [Reddit](https://www.reddit.com/r/ZentaChain)  • [Twitter](https://twitter.com/zentachain) • [Telegram](https://t.me/ZentachainOfficialChat) • [Forum](http://forum.zentachain.io) • [Contact Us](mailto:team@zentachain.io)
+• [Website](https://.zentachain.io) • [Onlinestore](https://zentanode.com) • [Explorer](https://explorer.zentanode.com) • [Trade-Hub](https://trade.zentachain.io) • [Zentalk-Web](https://zentalk.chat) • [Blog](https://zentachain.blog) • [Doc-Hub](https://docs.zentachain.io) • [Reddit](https://www.reddit.com/r/ZentaChain)  • [Twitter](https://twitter.com/zentachain) • [Telegram](https://t.me/ZentachainOfficialChat) • [Forum](http://forum.zentachain.io) • [Contact Us](mailto:team@zentachain.io)
 
 Zentachain is a privacy-based project that focuses on communication and data storage. 
 Original and effective solutions are provided for security and data ownership problems. 
