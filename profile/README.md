@@ -6,8 +6,6 @@
 
 • [Website](https://.zentachain.io) • [Onlinestore](https://zentanode.com) • [Explorer](https://explorer.zentanode.com) • [Trade-Hub](https://trade.zentachain.io) • [Zentalk-Web](https://zentalk.chat) • [Blog](https://zentachain.blog) • [Doc-Hub](https://docs.zentachain.io) • [Reddit](https://www.reddit.com/r/ZentaChain)  • [Twitter](https://twitter.com/zentachain) • [Telegram](https://t.me/ZentachainOfficialChat) • [Forum](http://forum.zentachain.io) • [Contact Us](mailto:team@zentachain.io)
 
-Zentachain is a privacy-based project that focuses on communication and data storage. 
-Original and effective solutions are provided for security and data ownership problems. 
-Zentachain is an open-source project and objects to fill the gap between decentralized networks, cloud services such as IPFS, dynamic routing, and mesh-networking.
+Zentachain is a privacy-focused IoT blockchain networking project that is focused on communication and data storage. Innovative and useful solutions are provided for issues of security and data ownership. An open-source project that aims to connect decentralized networks, cloud services like IPFS, dynamic routing, and mesh networking.
   
 ### Learn more about [Zentachain](https://github.com/ZentaChain/Zentachain)
