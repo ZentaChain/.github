@@ -7,6 +7,6 @@ Zentachain is a privacy-focused IoT blockchain networking project that is focuse
 
 ### Links
 
-• [Homepage](https://zentachain.io) • [Onlinestore](https://zentanode.com) • [Stake CHAIN](https://staking.zentachain.io) •[Zentalk Mobile](https://zentachain.io/zentalkmobile) • [Zentalk-Web](https://zentalk.chat) • [Blog](https://zentachain.blog) • [Doc-Hub](https://docs.zentachain.io) • [Dev-Hub](https://dev.zentachain.io) • [Forum](http://forum.zentanode.com)
+• [Homepage](https://zentachain.io) • [Onlinestore](https://zentanode.com) • [Stake CHAIN](https://staking.zentachain.io) • [Testnet Explorer](https://explorer-sepolia.zentachain.io) •[Zentalk Mobile](https://zentachain.io/zentalkmobile) • [Zentalk-Web](https://zentalk.chat) • [Blog](https://zentachain.blog) • [Doc-Hub](https://docs.zentachain.io) • [Dev-Hub-ZNode](https://devs.zentachain.io) • [Build-On-Chain](https://devs-chain.zentachain.io) • [Forum](http://forum.zentanode.com)
   
 #### Learn more about [Zentachain](https://github.com/ZentaChain/Zentachain)
