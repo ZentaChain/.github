@@ -4,7 +4,7 @@
 
 # About Zentachain
 
-**Zentachain** is a privacy-focused IoT blockchain networking project, emphasizing secure communication and data storage. The project provides innovative and practical solutions to address challenges in security and data ownership. As an open-source initiative, Zentachain integrates decentralized network dynamic routing with AI mesh networking to create cutting-edge technologies.
+**Zentachain** is a privacy-focused, open-source blockchain project that secures IoT communication, data storage, and real-world assets (RWAs) through decentralized network routing, AI-powered mesh networking, and DePin infrastructure.
 
 ## Links
 
@@ -12,6 +12,7 @@ Explore the various facets of Zentachain through the links below:
 
 - [Homepage](https://zentachain.io)
 - [Zenta-Go](https://zenta-go.com)
+- [Zenta-Go Dashbord](https://earn.zenta-go.com)
 - [Online Store](https://zentanode.com)
 - [Stake CHAIN](https://staking.zentachain.io)
 - [Testnet Explorer](https://explorer-sepolia.zentachain.io)
