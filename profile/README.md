@@ -14,11 +14,11 @@ Explore the various facets of Zentachain through the links below:
 - [Zenta-Go](https://zenta-go.com)
 - [Zenta-Go Dashbord](https://earn.zenta-go.com)
 - [Online Store](https://zentanode.com)
-- [Stake CHAIN](https://stake.zentachain.io)
-- [Stake CHAIN Mobile]() // Under Preeview
+- [Stake CHAIN](https://stake.zentachain.io) — *Dump rewards before the launch of Zentalk Node and AI Operators*
+- [Stake CHAIN Mobile]() — *Under Preview*
 - [Testnet Explorer](https://explorer-sepolia.zentachain.io)
-- [Zentalk Mobile](https://zentachain.io/zentalkmobile) // Under Maintance
-- [Zentalk Web](https://zentalk.chat) // Under Maintance
+- [Zentalk Mobile](https://zentachain.io/zentalkmobile) — *Under Maintenance*
+- [Zentalk Web](https://zentalk.chat) — *Under Maintenance*
 - [Blog-Hub](https://zentachain.blog)
 - [Doc-Hub](https://docs.zentachain.io)
 - [Developer-Hub](https://devs.zentachain.io)
