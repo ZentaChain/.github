@@ -15,7 +15,7 @@ Explore the various facets of Zentachain through the links below:
 - [Zenta-Go Dashbord](https://earn.zenta-go.com)
 - [Online Store](https://zentanode.com)
 - [Stake CHAIN](https://stake.zentachain.io)
-- [Stake CHAIN Mobile]() — *Alpha Passed*
+- [Stake CHAIN Mobile]() — *Beta Passed*
 - [Testnet Explorer](https://explorer-sepolia.zentachain.io)
 - [Zentalk Mobile](https://zentachain.io/zentalkmobile) — *Under Maintenance*
 - [Zentalk Web](https://zentalk.chat) — *Under Maintenance*
