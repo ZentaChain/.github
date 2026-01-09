@@ -22,7 +22,7 @@ Explore the various facets of Zentachain through the links below:
 - [Zentalk Validator]() — *Under Preview*
 - [Zentalk Explorer]() — *Under Development*
 - [Blog-Hub](https://zentachain.blog)
-- [Doc-Hub](https://docs.zentachain.io)  — * mv Zentalk to offical page* 
+- [Doc-Hub](https://docs.zentachain.io)  — *mv Zentalk to offical page, do not drop the offline version!!* 
 - [Developer-Hub](https://devs.zentachain.io)
 - [Build on CHAIN](https://devs-chain.zentachain.io)
 - [Forum-Hub](https://zentachain.bettermode.io)
