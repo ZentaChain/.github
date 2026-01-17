@@ -20,7 +20,7 @@ Explore the various facets of Zentachain through the links below:
 - [Zentalk Mobile](https://zentachain.io/zentalkmobile) — *Under Maintenance*
 - [Zentalk Web](https://zentalk.chat) — *Under Maintenance*
 - [Zentalk Validator]() — *Under Preview*
-- [Zentalk Explorer]() — *Under Development*
+- [Zentalk Explorer](https://explorer.zentalk.chat/) — *Alpha Mock*
 - [Blog-Hub](https://zentachain.blog)
 - [Doc-Hub](https://docs.zentachain.io)  — *mv Zentalk to offical page, do not drop the offline version!!* 
 - [Developer-Hub](https://devs.zentachain.io)
