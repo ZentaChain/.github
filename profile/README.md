@@ -4,7 +4,7 @@
 
 # About Zentachain
 
-**Zentachain** is a privacy-focused, open-source blockchain project that secures IoT communication, data storage, and real-world assets (RWAs) through decentralized network routing, AI-powered mesh networking, and DePin infrastructure.
+**Zentachain** decentralized communication infrastructure. Trust math, not servers. Building the future of privacy, connectivity, and digital sovereignty.
 
 ## Links
 
