@@ -16,7 +16,6 @@ Explore the various facets of Zentachain through the links below:
 - [Online Store](https://zentanode.com)
 - [Stake CHAIN](https://stake.zentachain.io)
 - [Stake CHAIN Mobile]() — *Beta Passed*
-- [Testnet Explorer](https://explorer-sepolia.zentachain.io)
 - [Zentalk Mobile](https://zentachain.io/zentalkmobile) — *Under Maintenance*
 - [Zentalk Web](https://zentalk.chat) — *Under Maintenance*
 - [Zentalk Validator]() — *Under Preview*
