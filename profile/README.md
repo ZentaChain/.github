@@ -23,7 +23,7 @@ Explore the various facets of Zentachain through the links below:
 - [Blog-Hub](https://zentachain.blog)
 - [Doc-Hub](https://docs.zentachain.io)
 - [Developer Hub](https://devs.zentachain.io) // Zentalk already has a Developer Hub, so L2 can be removed. The question is whether we want to position this as a Developer Hub for the telecom provider ecosystem. The hub should be split into a company-facing Zentalk area and public documentation for API usage and developers.
-- [Build on CHAIN](https://devs-chain.zentachain.io)
+- [Build on CHAIN](https://devs-chain.zentachain.io) // Kill this shit.
 
 ---
 
