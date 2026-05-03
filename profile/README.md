@@ -2,9 +2,9 @@
   <img src="https://github.com/ZentaChain/.github/blob/main/assets/zentachain_github.png" alt="Zentachain Logo">
 </body>
 
-# About Zentachain
+# About
 
-**Zentachain** decentralized communication infrastructure. Trust math, not servers. Building the future of privacy, connectivity, and digital sovereignty.
+**Zentachain** is a decentralized telecom network. It moves communication off the traditional carrier and server model and onto a peer-to-peer mesh of dedicated hardware nodes operated by independent participants worldwide. An end-to-end encrypted messaging application sits on top of the mesh, and an EVM-compatible blockchain settles activity and compensates the people who run the network. The result is a complete telecom stack — from the user's device down to the physical relay layer — that keeps working in places and conditions where ordinary internet infrastructure is unavailable, restricted, or unreliable.
 
 ## Links
 
@@ -22,7 +22,6 @@ Explore the various facets of Zentachain through the links below:
 - [Zentalk Explorer](https://explorer.zentalk.chat/) — *Alpha Mock*
 - [Blog-Hub](https://zentachain.blog)
 - [Doc-Hub](https://docs.zentachain.io)
-- [Developer Hub](https://devs.zentachain.io) // Zentalk already has a Developer Hub, so L2 can be removed. The question is whether we want to position this as a Developer Hub for the telecom provider ecosystem. The hub should be split into a company-facing Zentalk area and public documentation for API usage and developers.
 - [Build on CHAIN](https://devs-chain.zentachain.io) // Kill this shit.
 - [Whitepaper-v2](https://zentachain.io/whitepaper)
 ---
