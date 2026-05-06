@@ -11,18 +11,17 @@
 Explore the various facets of Zentachain through the links below:
 
 - [Homepage](https://zentachain.io)
-- [Zenta-Go](https://zenta-go.com)
-- [Zenta-Go Dashbord](https://earn.zenta-go.com)
-- [Online Store](https://zentanode.com)
-- [Stake CHAIN](https://stake.zentachain.io)
+- [Stake $CHAIN](https://stake.zentachain.io)
 - [Stake CHAIN Mobile]() — *Beta Passed*
-- [Zentalk Mobile](https://zentachain.io/zentalkmobile) — *Under Maintenance*
 - [Zentalk Web](https://zentalk.chat) — *Under Maintenance*
 - [Zentalk Validator]() — *Under Preview*
 - [Zentalk Explorer](https://explorer.zentalk.chat/) — *Alpha Mock*
-- [Blog-Hub](https://zentachain.blog)
+- [Online Store](https://zentanode.com)
+- [Zentalk Mobile](https://zentachain.io/zentalkmobile) — *Under Maintenance*
 - [Doc-Hub](https://docs.zentachain.io)
-- [Build on CHAIN](https://devs-chain.zentachain.io) // Kill this shit.
+- [Zenta-Go](https://zenta-go.com)
+- [Zenta-Go Dashbord](https://earn.zenta-go.com)
+- [Blog-Hub](https://zentachain.blog)
 - [Whitepaper-v2](https://zentachain.io/whitepaper)
 ---
 
